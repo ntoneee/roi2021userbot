@@ -1,0 +1,11 @@
+__pycache__/
+
+# IDE
+.idea/
+.vs/
+.vscode/
+
+# Secure files and results
+*.session
+*.session-journal
+*.txt
